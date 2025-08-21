@@ -1,1 +1,16 @@
-ai flight agnet
+✈️ AI Flight Agent
+
+AI Flight Agent is a chat-based travel assistant built using OpenAI, Gradio, and Colab.
+It helps users find flight details (airline, timings, prices) between cities and also generates AI-powered travel posters of destinations.
+
+🚀 Features
+
+💬 Chat-based interface with short, courteous responses.
+
+✈️ Flight search from a mock flight database (airlines, timings, prices).
+
+🎨 Travel poster generator using OpenAI’s DALL·E 3.
+
+🖥️ Modern Gradio UI with dark theme.
+
+⚙️ Tool calling support to connect chat and flight lookup logic.
